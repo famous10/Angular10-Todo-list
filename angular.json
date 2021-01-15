@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TodoAppAngular"
+    }
+  },
+  "defaultProject": "TodoAppAngular",
+  "cli": {
+    "analytics": "5b4cfd04-35ba-4b8b-ae78-1418719d3369"
+  }
 }
